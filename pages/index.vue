@@ -3,7 +3,7 @@
     <div class="columns is-mobile">
 
       <card
-        title="Free"
+        title="Freeだよ"
         icon="github-circle"
       >
         Open source on <a href="https://github.com/buefy/buefy"> GitHub</a>
